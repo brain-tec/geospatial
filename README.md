@@ -9,7 +9,7 @@
 
 # geospatial
 
-TODO: add repo description.
+This project will enable real life GIS support on Odoo.
 
 <!-- /!\ do not modify below this line -->
 
@@ -17,7 +17,12 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[base_geoengine](base_geoengine/) | 16.0.1.0.0 |  | Geospatial support for Odoo
+[base_geoengine_demo](base_geoengine_demo/) | 16.0.1.0.0 |  | Geo spatial support Demo
 
 [//]: # (end addons)
 
