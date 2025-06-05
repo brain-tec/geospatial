@@ -61,9 +61,9 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [base_geoengine](base_geoengine/) | 14.0.1.0.1 |  | Geospatial support for Odoo
-[base_google_map](base_google_map/) | 14.0.1.0.1 | [![gityopie](https://github.com/gityopie.png?size=30px)](https://github.com/gityopie) [![wolfhall](https://github.com/wolfhall.png?size=30px)](https://github.com/wolfhall) | View modes and widgets to integrate Google Maps in your UI
-[web_view_google_map](web_view_google_map/) | 14.0.1.0.0 | [![gityopie](https://github.com/gityopie.png?size=30px)](https://github.com/gityopie) [![wolfhall](https://github.com/wolfhall.png?size=30px)](https://github.com/wolfhall) | Add a Google Map view type to the Odoo web client
-[web_widget_google_marker_icon_picker](web_widget_google_marker_icon_picker/) | 14.0.1.1.0 | [![gityopie](https://github.com/gityopie.png?size=30px)](https://github.com/gityopie) [![wolfhall](https://github.com/wolfhall.png?size=30px)](https://github.com/wolfhall) | Google map widget allowing to set marker's color
+[base_google_map](base_google_map/) | 14.0.1.0.1 | <a href='https://github.com/gityopie'><img src='https://github.com/gityopie.png' width='32' height='32' style='border-radius:50%;' alt='gityopie'/></a> <a href='https://github.com/wolfhall'><img src='https://github.com/wolfhall.png' width='32' height='32' style='border-radius:50%;' alt='wolfhall'/></a> | View modes and widgets to integrate Google Maps in your UI
+[web_view_google_map](web_view_google_map/) | 14.0.1.0.0 | <a href='https://github.com/gityopie'><img src='https://github.com/gityopie.png' width='32' height='32' style='border-radius:50%;' alt='gityopie'/></a> <a href='https://github.com/wolfhall'><img src='https://github.com/wolfhall.png' width='32' height='32' style='border-radius:50%;' alt='wolfhall'/></a> | Add a Google Map view type to the Odoo web client
+[web_widget_google_marker_icon_picker](web_widget_google_marker_icon_picker/) | 14.0.1.1.0 | <a href='https://github.com/gityopie'><img src='https://github.com/gityopie.png' width='32' height='32' style='border-radius:50%;' alt='gityopie'/></a> <a href='https://github.com/wolfhall'><img src='https://github.com/wolfhall.png' width='32' height='32' style='border-radius:50%;' alt='wolfhall'/></a> | Google map widget allowing to set marker's color
 
 [//]: # (end addons)
 
