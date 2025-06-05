@@ -23,14 +23,14 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [base_geoengine](base_geoengine/) | 16.0.1.1.1 |  | Geospatial support for Odoo
 [base_geoengine_demo](base_geoengine_demo/) | 16.0.1.0.0 |  | Geo spatial support Demo
-[base_geolocalize_company](base_geolocalize_company/) | 16.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add latitude and longitude fields on company model
+[base_geolocalize_company](base_geolocalize_company/) | 16.0.1.0.1 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add latitude and longitude fields on company model
 [geoengine_base_geolocalize](geoengine_base_geolocalize/) | 16.0.1.0.2 |  | Geospatial support for base_geolocalize
 [geoengine_partner](geoengine_partner/) | 16.0.1.0.1 |  | Geospatial support of partners
-[web_leaflet_lib](web_leaflet_lib/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Bring leaflet.js librairy in odoo.
-[web_view_leaflet_map](web_view_leaflet_map/) | 16.0.2.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add new 'leaflet_map' view, to display markers.
-[web_view_leaflet_map_partner](web_view_leaflet_map_partner/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | TODO
+[web_leaflet_lib](web_leaflet_lib/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Bring leaflet.js librairy in odoo.
+[web_view_leaflet_map](web_view_leaflet_map/) | 16.0.2.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add new 'leaflet_map' view, to display markers.
+[web_view_leaflet_map_partner](web_view_leaflet_map_partner/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | TODO
 [website_geoengine](website_geoengine/) | 16.0.1.0.0 |  | Geospatial Website
-[website_geoengine_store_locator](website_geoengine_store_locator/) | 16.0.1.0.0 | [![Wouitmil](https://github.com/Wouitmil.png?size=30px)](https://github.com/Wouitmil) | Geospatial Website store locator
+[website_geoengine_store_locator](website_geoengine_store_locator/) | 16.0.1.0.0 | <a href='https://github.com/Wouitmil'><img src='https://github.com/Wouitmil.png' width='32' height='32' style='border-radius:50%;' alt='Wouitmil'/></a> | Geospatial Website store locator
 
 [//]: # (end addons)
 
