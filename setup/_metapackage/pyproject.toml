@@ -1,0 +1,12 @@
+[project]
+name = "odoo-addons-oca-geospatial"
+version = "19.0.20260731.1"
+dependencies = [
+    "odoo-addon-base_google_map==19.0.*",
+    "odoo-addon-web_view_google_map==19.0.*",
+]
+classifiers=[
+    "Programming Language :: Python",
+    "Framework :: Odoo",
+    "Framework :: Odoo :: 19.0",
+]
