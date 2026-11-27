@@ -23,6 +23,11 @@ msgid "%s column does not exists or is not a geo field"
 msgstr "%s kolumnen finns inte eller är inte ett geofält"
 
 #. module: base_geoengine
+#: model:ir.model.constraint,message:base_geoengine.constraint_ir_ui_view_geoengine_projection_required
+msgid "A GeoEngine view must have a Projection."
+msgstr ""
+
+#. module: base_geoengine
 #: model:ir.model.fields,field_description:base_geoengine.field_geoengine_vector_layer__active_on_startup
 msgid "Active On Startup"
 msgstr "Aktiv vid uppstart"
@@ -242,8 +247,8 @@ msgid ""
 "Geo Value %(geom_type)s must be of the same type %"
 "(geo_type)s                         as fields"
 msgstr ""
-"Geovärdet %(geom_type)s måste vara av samma typ %(geo_type)s"
-"                         som fälten"
+"Geovärdet %(geom_type)s måste vara av samma typ %"
+"(geo_type)s                         som fälten"
 
 #. module: base_geoengine
 #. odoo-python
@@ -538,6 +543,12 @@ msgstr "Parametrar"
 #: model:ir.model.fields,field_description:base_geoengine.field_geoengine_raster_layer__params_wms
 msgid "Params WMS"
 msgstr "WMS-parametrar"
+
+#. module: base_geoengine
+#. odoo-javascript
+#: code:addons/base_geoengine/static/src/js/views/geoengine/geoengine_renderer/geoengine_renderer.esm.js:0
+msgid "Please update latitude and longitude details for: \"%s\""
+msgstr ""
 
 #. module: base_geoengine
 #: model:ir.model.fields.selection,name:base_geoengine.selection__ir_model_fields__geo_type__point
